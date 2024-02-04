@@ -1,0 +1,52 @@
+D:\learn c++\planet simulation\bin\Debug\planet simulation.exe.config
+D:\learn c++\planet simulation\bin\Debug\planet simulation.exe
+D:\learn c++\planet simulation\bin\Debug\planet simulation.pdb
+D:\learn c++\planet simulation\obj\Debug\planet simulation.csproj.AssemblyReference.cache
+D:\learn c++\planet simulation\obj\Debug\planet simulation.csproj.SuggestedBindingRedirects.cache
+D:\learn c++\planet simulation\obj\Debug\planet_simulation.simulation.resources
+D:\learn c++\planet simulation\obj\Debug\planet_simulation.Start.resources
+D:\learn c++\planet simulation\obj\Debug\planet_simulation.Properties.Resources.resources
+D:\learn c++\planet simulation\obj\Debug\planet simulation.csproj.GenerateResource.cache
+D:\learn c++\planet simulation\obj\Debug\planet simulation.csproj.CoreCompileInputs.cache
+D:\learn c++\planet simulation\obj\Debug\planet simulation.exe
+D:\learn c++\planet simulation\obj\Debug\planet simulation.pdb
+D:\learn c++\planet simulation\bin\Debug\Interop.WMPLib.dll
+D:\learn c++\planet simulation\bin\Debug\AxInterop.WMPLib.dll
+D:\learn c++\planet simulation\obj\Debug\Interop.WMPLib.dll
+D:\learn c++\planet simulation\obj\Debug\AxInterop.WMPLib.dll
+D:\learn c++\planet simulation\obj\Debug\planet simulation.csproj.ResolveComReference.cache
+D:\planet simulation\bin\Debug\planet simulation.exe.config
+D:\planet simulation\bin\Debug\planet simulation.exe
+D:\planet simulation\bin\Debug\planet simulation.pdb
+D:\planet simulation\bin\Debug\Interop.WMPLib.dll
+D:\planet simulation\bin\Debug\AxInterop.WMPLib.dll
+D:\planet simulation\obj\Debug\planet simulation.csproj.AssemblyReference.cache
+D:\planet simulation\obj\Debug\planet simulation.csproj.SuggestedBindingRedirects.cache
+D:\planet simulation\obj\Debug\Interop.WMPLib.dll
+D:\planet simulation\obj\Debug\AxInterop.WMPLib.dll
+D:\planet simulation\obj\Debug\planet simulation.csproj.ResolveComReference.cache
+D:\planet simulation\obj\Debug\planet_simulation.simulation.resources
+D:\planet simulation\obj\Debug\planet_simulation.Start.resources
+D:\planet simulation\obj\Debug\planet_simulation.Properties.Resources.resources
+D:\planet simulation\obj\Debug\planet simulation.csproj.GenerateResource.cache
+D:\planet simulation\obj\Debug\planet simulation.csproj.CoreCompileInputs.cache
+D:\planet simulation\obj\Debug\planet simulation.exe
+D:\planet simulation\obj\Debug\planet simulation.pdb
+D:\planet simulation\obj\Debug\planet_simulation.video.resources
+C:\planet simulation\bin\Debug\planet simulation.exe.config
+C:\planet simulation\bin\Debug\planet simulation.exe
+C:\planet simulation\bin\Debug\planet simulation.pdb
+C:\planet simulation\bin\Debug\Interop.WMPLib.dll
+C:\planet simulation\bin\Debug\AxInterop.WMPLib.dll
+C:\planet simulation\obj\Debug\planet simulation.csproj.AssemblyReference.cache
+C:\planet simulation\obj\Debug\Interop.WMPLib.dll
+C:\planet simulation\obj\Debug\AxInterop.WMPLib.dll
+C:\planet simulation\obj\Debug\planet simulation.csproj.ResolveComReference.cache
+C:\planet simulation\obj\Debug\planet_simulation.simulation.resources
+C:\planet simulation\obj\Debug\planet_simulation.Start.resources
+C:\planet simulation\obj\Debug\planet_simulation.Properties.Resources.resources
+C:\planet simulation\obj\Debug\planet_simulation.video.resources
+C:\planet simulation\obj\Debug\planet simulation.csproj.GenerateResource.cache
+C:\planet simulation\obj\Debug\planet simulation.csproj.CoreCompileInputs.cache
+C:\planet simulation\obj\Debug\planet simulation.exe
+C:\planet simulation\obj\Debug\planet simulation.pdb
